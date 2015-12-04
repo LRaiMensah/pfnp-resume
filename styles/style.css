@@ -1,0 +1,18 @@
+h1 {
+	text-decoration: underline;
+	text-transform: uppercase;
+	color: Turquoise;
+}
+
+body{
+	text-align: center;
+}
+#first{
+	color: Orange;
+}
+
+.current {
+border: solid orange;
+width: 23%
+text-align: center;
+}
